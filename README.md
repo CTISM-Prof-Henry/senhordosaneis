@@ -1,6 +1,6 @@
-# Título do repositório
+# Detetive
 
-Descrição curta do repositório.
+Repositório do desafio do detetive, sobre programação em C!
 
 ## Sumário
 
@@ -11,9 +11,6 @@ Descrição curta do repositório.
 * [Bibliografia](#bibliografia)
 
 ## Pré-requisitos
-
-Esta seção detalha os pré-requisitos que outro usuário precisa atingir para poder executar o código-fonte. Por exemplo,
-o parágrafo abaixo descreve um requisito do Python Anaconda:
 
 Este repositório requer a última versão do [Python Anaconda](https://www.anaconda.com/download) para ser executado, 
 visto que usa o gerenciador de pacotes conda. O código executará em qualquer Sistema Operacional, mas foi desenvolvido
