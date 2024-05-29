@@ -1,6 +1,6 @@
-# Detetive
+# Casa do Dragão
 
-Repositório do desafio do detetive, sobre programação em C!
+Repositório do desafio da Casa do Dragão, sobre programação em C!
 
 ## Sumário
 
@@ -44,13 +44,3 @@ deste projeto:
 ```bash
 python main.py
 ```
-
-## Contato
-
-O repositório foi originalmente desenvolvido por Fulano: [fulano@ufsm.br]()
-
-## Bibliografia
-
-Adicione aqui entradas numa lista com a documentação pertinente:
-
-* [Documentação ibm_db](https://www.ibm.com/docs/en/db2/11.5?topic=framework-application-development-db)
