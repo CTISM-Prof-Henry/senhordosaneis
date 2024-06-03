@@ -1,4 +1,4 @@
-# Casa do Dragão
+# Senhor dos Anéis
 
 Repositório do desafio da Casa do Dragão, sobre programação em C!
 
