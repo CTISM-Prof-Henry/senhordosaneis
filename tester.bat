@@ -2,8 +2,8 @@
 @REM Onde escrever o binário do programa
 set SOURCE=tarefas\test.c
 set BINARY=tarefas\test.exe
-set OUTPUT=tarefas\test.output
-set EXPECTED_OUTPUT_FILE=gabaritos\test.output
+set OUTPUT=tarefas\test.out
+set EXPECTED_OUTPUT_FILE=gabaritos\test.out
 
 @REM Compila o programa
 gcc %SOURCE% -o %BINARY%
