@@ -1,9 +1,9 @@
 #!/bin/bash
 
 # onde escrever o binário do programa
-SOURCE="src/test.c"  # código-fonte
-BINARY="src/test.o"  # coódigo binário
-OUTPUT="src/test.output"  # onde escrever a saída do programa
+SOURCE="tarefas/test.c"  # código-fonte
+BINARY="tarefas/test.o"  # coódigo binário
+OUTPUT="tarefas/test.output"  # onde escrever a saída do programa
 EXPECTED_OUTPUT_FILE="gabaritos/test.output"  # onde está a saída correta do programa
 
 # compila o programa

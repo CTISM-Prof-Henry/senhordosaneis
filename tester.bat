@@ -1,8 +1,8 @@
 @echo off
 @REM Onde escrever o binário do programa
-set SOURCE=src\test.c
-set BINARY=src\test.exe
-set OUTPUT=src\test.output
+set SOURCE=tarefas\test.c
+set BINARY=tarefas\test.exe
+set OUTPUT=tarefas\test.output
 set EXPECTED_OUTPUT_FILE=gabaritos\test.output
 
 @REM Compila o programa

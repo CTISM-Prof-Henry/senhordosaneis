@@ -5,28 +5,28 @@
 #include <stdio.h>
 #include <math.h>
 
-int main(){
+int main() {
     float salario, aumento;
     int contrib;
-    
+
     printf("Salario: ");
-    scanf("%f",&salario);
-    
+    scanf("%f", &salario);
+
     printf("Anos de contribuicao: ");
-    scanf("%d",&contrib);
-    
-    if(contrib>=5){
+    scanf("%d", &contrib);
+
+    if (contrib >= 5) {
         //aumento de 5%
-        aumento = salario * 5 /100;
-        
-    } else if(contrib<5 && contrib>0){
+        aumento = salario * 5 / 100;
+
+    } else if (contrib < 5 && contrib > 0) {
         //aumento de 3%
-        aumento = salario * 3 /100;
-        
+        aumento = salario * 3 / 100;
+
     }
-    
+
     salario = salario + aumento;
-    printf("Salario atualizado: R$%2.f \nAumento salarial: R$%2.f",salario,aumento);
+    printf("Salario atualizado: R$%2.f \nAumento salarial: R$%2.f", salario, aumento);
 
     return 0;
 }
